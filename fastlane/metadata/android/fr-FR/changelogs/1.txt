@@ -1,0 +1,1 @@
+Première version : ce qui passe en ce moment, la soirée et sa deuxième partie, la grille complète d'une chaîne, la fiche d'une émission avec son résumé, et des sources XMLTV configurables.

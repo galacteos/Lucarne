@@ -1,0 +1,12 @@
+Guide des programmes de télévision alimenté par un fichier XMLTV public.
+
+L'application télécharge le fichier, le met en cache et l'exploite entièrement sur
+l'appareil : pas de compte, pas de serveur intermédiaire, pas de traceur, pas de
+publicité. La source XMLTV est configurable, n'importe quel fichier au format XMLTV
+convient.
+
+Fonctions : ce qui passe en ce moment, la première partie de soirée, la fiche d'une
+émission avec son résumé, l'ordre et les numéros de la télécommande.
+
+Les programmes et les visuels proviennent de la source XMLTV choisie et restent la
+propriété de leurs éditeurs respectifs.
