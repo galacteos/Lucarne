@@ -1,0 +1,24 @@
+# Gabarit à déposer dans fdroiddata sous metadata/<applicationId>.yml,
+# après avoir publié le dépôt et posé une étiquette de version.
+Categories:
+  - Multimedia
+License: GPL-3.0-or-later
+AuthorName: ""
+SourceCode: https://exemple.org/lucarne
+IssueTracker: https://exemple.org/lucarne/issues
+
+RepoType: git
+Repo: https://exemple.org/lucarne.git
+
+Builds:
+  - versionName: "1.0"
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: "1.0"
+CurrentVersionCode: 1
