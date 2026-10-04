@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "fr.guidetv"
+    namespace = "com.lucarne"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "fr.guidetv"
+        applicationId = "com.lucarne"
         minSdk = 26          // java.time sans desugaring
         targetSdk = 35
         versionCode = 1
