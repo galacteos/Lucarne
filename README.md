@@ -119,8 +119,8 @@ Restent à faire, dans l'ordre :
 1. Publier le dépôt (Codeberg, GitLab ou GitHub) et poser une étiquette `v0.1`.
 2. Remplacer les adresses d'exemple : `USER_AGENT` dans `GuideRepository`, `SourceCode`
    et `Repo` dans `fdroid-metadata.yml`.
-3. Décider de l'identifiant d'application. Il vaut encore `fr.guidetv` alors que
-   l'application s'appelle Lucarne ; un identifiant ne se change plus après publication.
+3. Identifiant d'application : `io.github.galacteos.lucarne`, figé — il ne se change
+   plus après publication.
 4. Ajouter deux ou trois captures d'écran dans
    `fastlane/metadata/android/fr-FR/images/phoneScreenshots/`.
 5. Ouvrir une demande d'inclusion (RFP) sur le gitlab de fdroiddata, avec le gabarit

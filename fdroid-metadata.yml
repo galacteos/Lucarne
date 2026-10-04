@@ -3,12 +3,12 @@
 Categories:
   - Multimedia
 License: GPL-3.0-or-later
-AuthorName: ""
-SourceCode: https://exemple.org/lucarne
-IssueTracker: https://exemple.org/lucarne/issues
+AuthorName: "galacteos"
+SourceCode: https://github.com/galacteos/Lucarne
+IssueTracker: https://github.com/galacteos/Lucarne/issues
 
 RepoType: git
-Repo: https://exemple.org/lucarne.git
+Repo: https://github.com/galacteos/Lucarne.git
 
 Builds:
   - versionName: "1.0"

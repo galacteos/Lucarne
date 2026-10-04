@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.lucarne"
+    namespace = "io.github.galacteos.lucarne"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.lucarne"
+        applicationId = "io.github.galacteos.lucarne"
         minSdk = 26          // java.time sans desugaring
         targetSdk = 35
         versionCode = 1
