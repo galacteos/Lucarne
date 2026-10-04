@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lucarne : un écran et trois lignes de grille. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 72 dp de zone sûre sur 108 : tout tient à l'intérieur. -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.72"
+        android:scaleY="0.72">
+
+        <!-- Lignes de la grille, de longueurs inégales comme des titres. -->
+        <path android:fillColor="#F2C14E" android:pathData="M31,42 h46 a4,4 0 0,1 0,8 h-46 a4,4 0 0,1 0,-8 z" />
+        <path android:fillColor="#4FB8A8" android:pathData="M31,54 h30 a4,4 0 0,1 0,8 h-30 a4,4 0 0,1 0,-8 z" />
+        <path android:fillColor="#E0674E" android:pathData="M31,66 h38 a4,4 0 0,1 0,8 h-38 a4,4 0 0,1 0,-8 z" />
+
+        <!-- Écran. -->
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M30,28 h48 a10,10 0 0,1 10,10 v40 a10,10 0 0,1 -10,10 h-48 a10,10 0 0,1 -10,-10 v-40 a10,10 0 0,1 10,-10 z"
+            android:strokeColor="#F5F7FA"
+            android:strokeWidth="7" />
+
+        <!-- Antennes. -->
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M44,28 L36,16 M64,28 L72,16"
+            android:strokeColor="#F5F7FA"
+            android:strokeWidth="6"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

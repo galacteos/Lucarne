@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fond noir dès l'ouverture : l'écran de démarrage d'Android reprend cette couleur. -->
+    <style name="Theme.GuideTV" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

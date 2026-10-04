@@ -1,0 +1,11 @@
+Table de correspondance chaîne -> logo (app/src/main/res/raw/channel_logos.json)
+
+Elle est dérivée du fichier resources/information/default_channels_infos.json du projet
+XML TV Fr : https://github.com/racacax/XML-TV-Fr
+
+Ce projet déclare la licence MIT dans son composer.json. Son dépôt ne contient pas de
+fichier LICENSE au moment de la rédaction : demander à son auteur de l'ajouter lèverait
+la dernière ambiguïté.
+
+Seules les URL des logos sont reprises. Les images elles-mêmes restent hébergées par
+leurs éditeurs et ne sont pas redistribuées ici.
